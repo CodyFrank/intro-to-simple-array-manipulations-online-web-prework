@@ -23,9 +23,7 @@ def shift_with_args(array)
 end
 
 def using_concat(arr1, arr2)
-  arr1 += arr2
-  puts arr1.length
-  return arr1
+   return arr1 += arr2
 end
 
 def using_insert(array, element)
