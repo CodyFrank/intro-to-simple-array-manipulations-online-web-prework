@@ -24,7 +24,6 @@ end
 
 def using_concat(arr1, arr2)
   arr1 = arr1 + arr2
-  puts arr1.length
 end
 
 def using_insert(array, element)
